@@ -1,0 +1,14 @@
+C:\Users\nargi\Desktop\acces\encapsulation-1\encapsulation-1\bin\Debug\netcoreapp3.1\encapsulation-1.exe
+C:\Users\nargi\Desktop\acces\encapsulation-1\encapsulation-1\bin\Debug\netcoreapp3.1\encapsulation-1.deps.json
+C:\Users\nargi\Desktop\acces\encapsulation-1\encapsulation-1\bin\Debug\netcoreapp3.1\encapsulation-1.runtimeconfig.json
+C:\Users\nargi\Desktop\acces\encapsulation-1\encapsulation-1\bin\Debug\netcoreapp3.1\encapsulation-1.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\acces\encapsulation-1\encapsulation-1\bin\Debug\netcoreapp3.1\encapsulation-1.dll
+C:\Users\nargi\Desktop\acces\encapsulation-1\encapsulation-1\bin\Debug\netcoreapp3.1\encapsulation-1.pdb
+C:\Users\nargi\Desktop\acces\encapsulation-1\encapsulation-1\obj\Debug\netcoreapp3.1\encapsulation-1.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\acces\encapsulation-1\encapsulation-1\obj\Debug\netcoreapp3.1\encapsulation-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\acces\encapsulation-1\encapsulation-1\obj\Debug\netcoreapp3.1\encapsulation-1.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\acces\encapsulation-1\encapsulation-1\obj\Debug\netcoreapp3.1\encapsulation-1.AssemblyInfo.cs
+C:\Users\nargi\Desktop\acces\encapsulation-1\encapsulation-1\obj\Debug\netcoreapp3.1\encapsulation-1.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\acces\encapsulation-1\encapsulation-1\obj\Debug\netcoreapp3.1\encapsulation-1.dll
+C:\Users\nargi\Desktop\acces\encapsulation-1\encapsulation-1\obj\Debug\netcoreapp3.1\encapsulation-1.pdb
+C:\Users\nargi\Desktop\acces\encapsulation-1\encapsulation-1\obj\Debug\netcoreapp3.1\encapsulation-1.genruntimeconfig.cache
